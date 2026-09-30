@@ -1,0 +1,6 @@
+rank,title,genre,rating,similarity,score
+1,Hunter x Hunter,Action|Adventure|Fantasy,9.00,0.9925,0.9740
+2,Jujutsu Kaisen,Action|Supernatural|Dark Fantasy,8.70,0.9938,0.9691
+3,Fullmetal Alchemist Brotherhood,Action|Adventure|Fantasy|Drama,9.10,0.9835,0.9688
+4,Blue Exorcist,Action|Supernatural|Fantasy|School,7.80,0.9971,0.9537
+5,Tower of God,Action|Fantasy|Mystery,8.00,0.9860,0.9488

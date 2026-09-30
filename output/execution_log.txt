@@ -1,0 +1,23 @@
+
+Computation device: cuda
+
+======================================
+       ANIME RECOMMENDATION SYSTEM
+======================================
+
+Your preferences:
+Action:   9.0
+Comedy:   4.0
+Romance:  3.0
+Fantasy:  8.0
+Sci-Fi:   2.0
+
+Recommended Anime:
+
+1. Hunter x Hunter | Rating: 9.0 | Match: 0.974
+2. Jujutsu Kaisen | Rating: 8.7 | Match: 0.969
+3. Fullmetal Alchemist Brotherhood | Rating: 9.1 | Match: 0.969
+4. Blue Exorcist | Rating: 7.8 | Match: 0.954
+5. Tower of God | Rating: 8.0 | Match: 0.949
+
+Results saved to: output/recommendations.csv
